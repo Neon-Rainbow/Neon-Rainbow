@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Haonan Fang 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=Neon-Rainbow&show_icons=true&theme=radical)
 
