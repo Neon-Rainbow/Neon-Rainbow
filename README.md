@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neon-rainbow" alt="neon-rainbow" /></a> </p>
 
 - 🔭 I’m currently studying in [Soochow University](http://scst.suda.edu.cn)
-- 🌱 I’m currently learning C++, Python
+- 🌱 I’m currently learning Golang，gRPC
 - 📫 How to reach me: **Haonan_Fang@Outlook.com**
 
 <h3 align="left">Connect with me:</h3>
