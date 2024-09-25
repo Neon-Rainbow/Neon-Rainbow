@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning Golang，gRPC
 - 📫 How to reach me: **Haonan_Fang@Outlook.com**
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
