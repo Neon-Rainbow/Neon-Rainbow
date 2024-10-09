@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying in [Soochow University](http://scst.suda.edu.cn)
 - 🌱 I’m currently learning Golang，gRPC
 - 📫 How to reach me: **Haonan_Fang@Outlook.com**
-
+- Zhihu column [苦逼秋招刷题日记](https://www.zhihu.com/column/c_1820606099461652480)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
